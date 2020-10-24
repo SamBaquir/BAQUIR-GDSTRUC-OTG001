@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e73ebc9a-cddc-411e-974e-2aa9e7f38ea7" name="Default Changelist" comment="" />
+    <list default="true" id="be61d0df-d508-4094-bf0f-56e7eff9139c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,19 +35,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1iYERpJL5XLSyAXThUcaDePCKIS" />
+  <component name="ProjectId" id="1jESD2HTxhAidRZQz404yBGxulK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Midterms Exam" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="GDSTRUC Quiz 2" />
+      <module name="Midterms Exam" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -64,11 +64,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e73ebc9a-cddc-411e-974e-2aa9e7f38ea7" name="Default Changelist" comment="" />
-      <created>1602076124498</created>
+      <changelist id="be61d0df-d508-4094-bf0f-56e7eff9139c" name="Default Changelist" comment="" />
+      <created>1603367637915</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602076124498</updated>
+      <updated>1603367637915</updated>
     </task>
     <servers />
   </component>
@@ -85,33 +85,33 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="444" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1602241676663">
+    <state x="444" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1603524078358">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="444" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1602241676663" />
-    <state x="462" y="124" key="FileChooserDialogImpl" timestamp="1603533283792">
+    <state x="444" y="84" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1603524078358" />
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603373702776">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="462" y="124" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1603533283792" />
-    <state width="1322" height="187" key="GridCell.Tab.0.bottom" timestamp="1603524747113">
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1603373702776" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1603526441244">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="187" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603524747113" />
-    <state width="1322" height="187" key="GridCell.Tab.0.center" timestamp="1603524747112">
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1603526441244" />
+    <state width="1322" height="186" key="GridCell.Tab.0.bottom" timestamp="1603542468372">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="187" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603524747112" />
-    <state width="1322" height="187" key="GridCell.Tab.0.left" timestamp="1603524747112">
+    <state width="1322" height="186" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603542468372" />
+    <state width="1322" height="186" key="GridCell.Tab.0.center" timestamp="1603542468372">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="187" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603524747112" />
-    <state width="1322" height="187" key="GridCell.Tab.0.right" timestamp="1603524747112">
+    <state width="1322" height="186" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603542468372" />
+    <state width="1322" height="186" key="GridCell.Tab.0.left" timestamp="1603542468372">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="187" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603524747112" />
-    <state x="65" y="3" key="new project wizard" timestamp="1603367632877">
+    <state width="1322" height="186" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603542468372" />
+    <state width="1322" height="186" key="GridCell.Tab.0.right" timestamp="1603542468372">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="65" y="3" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1603367632877" />
+    <state width="1322" height="186" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603542468372" />
   </component>
 </project>

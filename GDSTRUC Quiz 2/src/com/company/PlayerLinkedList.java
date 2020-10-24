@@ -2,8 +2,8 @@ package com.company;
 
 public class PlayerLinkedList {
     private PlayerNode head;
-    private PlayerNode current1;
-    private PlayerNode previous;
+    private PlayerNode currentNode;
+    private PlayerNode previousNode;
     private int size;
 
     public void addToFront (Player player)
@@ -12,6 +12,7 @@ public class PlayerLinkedList {
         playerNode.setNextPlayer(head);
         head = playerNode;
         size++;
+
     }
 
     public void printList() {
