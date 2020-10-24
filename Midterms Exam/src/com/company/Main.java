@@ -11,33 +11,36 @@ public class Main {
 	    CardStack discardedPile = new CardStack(0);
         CardStack userCards = new CardStack(0);
 
-	    // Instantiate randomizer
+	    //Instantiate randomizer
         Random random = new Random();
 
         //Generates the card Deck
         generateCards(cardDeck, random);
 
+        // Loops the game
         while (!cardDeck.isEmpty())
         {
-            //Pauses the game after each round
-            Scanner scanner = new Scanner(System.in);
-            System.out.println("Enter 1 to continue.");
-            int input = scanner.nextInt();
-            clearScreen();
-
-            //Runs the game
+            //Where the magic happens
             playRound(cardDeck, userCards, discardedPile, random);
 
             //Show results of each round
             roundResults(cardDeck, userCards, discardedPile);
+
+            //Pauses the game after each round
+            Scanner scanner = new Scanner(System.in);
+            System.out.println("Enter any number to continue.");
+            int input = scanner.nextInt();
+            clearScreen();
         }
 
+        //When the game ends
+        System.out.println("Game Over.");
     }
 
     private static void generateCards(CardStack stack, Random random)
     {
+        //alphabet contains the letters used for naming the card on each iteration
         String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-
         for (int i = 0; i < stack.getDeckSize(); i++) {
             stack.push(new Card(alphabet.charAt(random.nextInt(alphabet.length()))));
         }
@@ -45,9 +48,11 @@ public class Main {
 
     private static void playRound (CardStack deck, CardStack user, CardStack pile, Random random)
     {
-        //Randomizes the command
+        //Randomizes the command and value
         int randomCommand = random.nextInt(3) + 1;
         int randomValue = random.nextInt(5) + 1;
+
+        //The process of each turn
         if (randomCommand == 1)
         {
             System.out.println("Draw " + randomValue + " card(s) from the deck.");
@@ -63,7 +68,6 @@ public class Main {
         else if (randomCommand == 2)
         {
             System.out.println("Discard " + randomValue + " card(s) from the your hand.");
-
             for (int i = 0; i < randomValue; i++)
             {
                 if (user.isEmpty()) return;
@@ -102,7 +106,9 @@ public class Main {
         //pile3.printStack();
     }
 
-    public static void clearScreen() {
+    private static void clearScreen()
+    {
+        //For clearing screen
         System.out.print("\033[H\033[2J");
         System.out.flush();
     }
