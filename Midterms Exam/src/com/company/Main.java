@@ -32,7 +32,6 @@ public class Main {
             int input = scanner.nextInt();
             clearScreen();
         }
-
         //When the game ends
         System.out.println("Game Over.");
     }
@@ -113,4 +112,3 @@ public class Main {
         System.out.flush();
     }
 }
-
