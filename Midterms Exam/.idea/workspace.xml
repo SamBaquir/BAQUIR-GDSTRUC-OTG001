@@ -42,7 +42,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GDSTRUC Quiz 3" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -93,26 +93,26 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1603373702776" />
-    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1604655323169">
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1604692856042">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1604655323169" />
-    <state width="1322" height="186" key="GridCell.Tab.0.bottom" timestamp="1603543905480">
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1604692856042" />
+    <state width="1322" height="186" key="GridCell.Tab.0.bottom" timestamp="1604692858052">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="186" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603543905480" />
-    <state width="1322" height="186" key="GridCell.Tab.0.center" timestamp="1603543905479">
+    <state width="1322" height="186" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1604692858052" />
+    <state width="1322" height="186" key="GridCell.Tab.0.center" timestamp="1604692858052">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="186" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603543905479" />
-    <state width="1322" height="186" key="GridCell.Tab.0.left" timestamp="1603543905479">
+    <state width="1322" height="186" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1604692858052" />
+    <state width="1322" height="186" key="GridCell.Tab.0.left" timestamp="1604692858052">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="186" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603543905479" />
-    <state width="1322" height="186" key="GridCell.Tab.0.right" timestamp="1603543905479">
+    <state width="1322" height="186" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1604692858052" />
+    <state width="1322" height="186" key="GridCell.Tab.0.right" timestamp="1604692858052">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="186" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603543905479" />
+    <state width="1322" height="186" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1604692858052" />
     <state x="65" y="3" key="new project wizard" timestamp="1604562245655">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
