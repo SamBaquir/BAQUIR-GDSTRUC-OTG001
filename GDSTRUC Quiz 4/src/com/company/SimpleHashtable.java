@@ -63,7 +63,7 @@ public class SimpleHashtable {
         int hashedKey = findKey(key);
         if (hashedKey == -1)
         {
-            System.out.println("Element not exisiting.");
+            System.out.println("Element not existing.");
 
         }
         hashtable[hashedKey] = null;
