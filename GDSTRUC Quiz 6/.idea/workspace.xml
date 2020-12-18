@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="808b6177-688f-414a-a1f0-be92bf92fe7d" name="Default Changelist" comment="" />
+    <list default="true" id="83ba0522-55b4-4e30-835b-5e0c42b9f829" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1kjYBJZwe1SyyMYtUA7SlRs0TAi" />
+  <component name="ProjectId" id="1loTis3eFgxptXGPuCAtCVc1fSM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,7 +44,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="GDSTRUC Quiz 4" />
+      <module name="GDSTRUC Quiz 6" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -61,11 +61,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="808b6177-688f-414a-a1f0-be92bf92fe7d" name="Default Changelist" comment="" />
-      <created>1606215334007</created>
+      <changelist id="83ba0522-55b4-4e30-835b-5e0c42b9f829" name="Default Changelist" comment="" />
+      <created>1608262577654</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606215334007</updated>
+      <updated>1608262577654</updated>
     </task>
     <servers />
   </component>
@@ -79,32 +79,41 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="889" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1606222929686">
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1608263617485">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="889" y="134" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1606222929686" />
-    <state width="1322" height="124" key="GridCell.Tab.0.bottom" timestamp="1606223800432">
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608263617485" />
+    <state width="1322" height="189" key="GridCell.Tab.0.bottom" timestamp="1608287640844">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="124" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606223800432" />
-    <state width="1322" height="124" key="GridCell.Tab.0.center" timestamp="1606223800432">
+    <state width="1322" height="189" key="GridCell.Tab.0.bottom/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608287640844" />
+    <state width="1322" height="189" key="GridCell.Tab.0.center" timestamp="1608287640843">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="124" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606223800432" />
-    <state width="1322" height="124" key="GridCell.Tab.0.left" timestamp="1606223800432">
+    <state width="1322" height="189" key="GridCell.Tab.0.center/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608287640843" />
+    <state width="1322" height="189" key="GridCell.Tab.0.left" timestamp="1608287640843">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="124" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606223800432" />
-    <state width="1322" height="124" key="GridCell.Tab.0.right" timestamp="1606223800432">
+    <state width="1322" height="189" key="GridCell.Tab.0.left/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608287640843" />
+    <state width="1322" height="189" key="GridCell.Tab.0.right" timestamp="1608287640844">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="124" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606223800432" />
-    <state x="65" y="3" key="new project wizard" timestamp="1608191010752">
+    <state width="1322" height="189" key="GridCell.Tab.0.right/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608287640844" />
+    <state x="234" y="119" width="898" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608272283450">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="65" y="3" key="new project wizard/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608191010751" />
+    <state x="234" y="119" width="898" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608272283449" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

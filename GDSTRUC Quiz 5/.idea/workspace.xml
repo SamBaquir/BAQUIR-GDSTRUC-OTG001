@@ -19,23 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="808b6177-688f-414a-a1f0-be92bf92fe7d" name="Default Changelist" comment="" />
+    <list default="true" id="3284b3e7-6ea1-42c7-8508-ce7fddf67d24" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1kjYBJZwe1SyyMYtUA7SlRs0TAi" />
+  <component name="ProjectId" id="1lm8fxEZxO8orA42oNdMP7fokVB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -44,7 +37,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="GDSTRUC Quiz 4" />
+      <module name="GDSTRUC Quiz 5" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -61,11 +54,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="808b6177-688f-414a-a1f0-be92bf92fe7d" name="Default Changelist" comment="" />
-      <created>1606215334007</created>
+      <changelist id="3284b3e7-6ea1-42c7-8508-ce7fddf67d24" name="Default Changelist" comment="" />
+      <created>1608191016894</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606215334007</updated>
+      <updated>1608191016894</updated>
     </task>
     <servers />
   </component>
@@ -82,29 +75,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="889" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1606222929686">
+    <state width="1322" height="106" key="GridCell.Tab.0.bottom" timestamp="1608221384426">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="889" y="134" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1606222929686" />
-    <state width="1322" height="124" key="GridCell.Tab.0.bottom" timestamp="1606223800432">
+    <state width="1322" height="106" key="GridCell.Tab.0.bottom/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608221384426" />
+    <state width="1322" height="106" key="GridCell.Tab.0.center" timestamp="1608221384426">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="124" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1606223800432" />
-    <state width="1322" height="124" key="GridCell.Tab.0.center" timestamp="1606223800432">
+    <state width="1322" height="106" key="GridCell.Tab.0.center/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608221384426" />
+    <state width="1322" height="106" key="GridCell.Tab.0.left" timestamp="1608221384426">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="124" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1606223800432" />
-    <state width="1322" height="124" key="GridCell.Tab.0.left" timestamp="1606223800432">
+    <state width="1322" height="106" key="GridCell.Tab.0.left/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608221384426" />
+    <state width="1322" height="106" key="GridCell.Tab.0.right" timestamp="1608221384426">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="124" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1606223800432" />
-    <state width="1322" height="124" key="GridCell.Tab.0.right" timestamp="1606223800432">
+    <state width="1322" height="106" key="GridCell.Tab.0.right/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608221384426" />
+    <state x="65" y="3" key="new project wizard" timestamp="1608262573615">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1322" height="124" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1606223800432" />
-    <state x="65" y="3" key="new project wizard" timestamp="1608191010752">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="65" y="3" key="new project wizard/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608191010751" />
+    <state x="65" y="3" key="new project wizard/-1366.0.1366.768/0.0.1366.768@0.0.1366.768" timestamp="1608262573615" />
   </component>
 </project>
